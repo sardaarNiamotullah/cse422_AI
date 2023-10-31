@@ -1,7 +1,7 @@
 src = input('Start Node: ')
 des = input('Destination: ')
 
-inputFile = open('Input file.txt', 'r')\
+inputFile = open('input.txt.txt', 'r')\
 
 tree = {}
 heuristic = {}
